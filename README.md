@@ -23,5 +23,5 @@ chat-socket-java/
 ---
 
 ## ▶️ Link do video no youtube:
-- link
+- https://www.youtube.com/watch?v=K-E9xU3u6F8
 
